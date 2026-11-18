@@ -6,7 +6,7 @@ const placesRoutes = require('./places.routes');
 const areasRoutes = require('./areas.routes');
 const usersRoutes = require('./users.routes');
 const aiRoutes = require('./ai.routes');
-const mapRoutes = require('./maproutes');
+const mapRoutes = require('./mapRoutes');
 
 const router = express.Router();
 
